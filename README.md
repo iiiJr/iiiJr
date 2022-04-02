@@ -1,6 +1,6 @@
-### Hi there 我是 @iiiJr 👋
+### Hi there I'm @iiiJr 👋
 ### Blog：   https://iiijr.site/
-### 联系我
+### find me
   - WeChat: iiiJr_
   - Mail  : iiiJr.lin@gmail.com 
 
