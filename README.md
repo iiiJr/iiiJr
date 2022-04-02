@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 我是 @iiiJr 👋
+### Blog：   https://iiijr.site/
+### 联系我
+  WeChat: iiiJr_
+  Mail  : iiiJr.lin@gmail.com 
 
 <!--
 **iiiJr/iiiJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
