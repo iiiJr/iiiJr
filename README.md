@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### I'm iiiJr
 ### Blog：   https://iiijr.site/
+### LeetCode：https://leetcode-cn.com/u/iiijr/
 ### Find me
   - WeChat: iiiJr_
   - Mail  : iiiJr.lin@gmail.com 
