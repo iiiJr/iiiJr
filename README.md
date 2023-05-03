@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm iiiJr
+### I'm KinWing.Lam
 ### Blog：   https://iiijr.site/
 ### LeetCode：https://leetcode-cn.com/u/iiijr/
 ### Find me
